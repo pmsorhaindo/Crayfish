@@ -1,0 +1,250 @@
+<LANGUAGE game_lang="hu">
+  <VAR name="gt_bigWin" value="NAGY NYEREMÉNY"/>
+  <VAR name="gt_bonus_freeSpin" value="INGYENES PÖRGETÉS"/>
+  <VAR name="gt_bonus_freeSpins" value="INGYENES PÖRGETÉS"/>
+  <VAR name="gt_console_autoPlay" value="AUTOMATIKUS JÁTÉK"/>
+  <VAR name="gt_console_autoPlays" value="AUTOMATIKUS JÁTÉKOK"/>
+  <VAR name="gt_console_lineStake" value="SORTÉT"/>
+  <VAR name="gt_console_lockAndSpin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_console_lockAndSpinShadow" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_console_minimumWin" value="MINIMÁLIS NYEREMÉNY"/>
+  <VAR name="gt_console_paytable" value="NYEREMÉNYTÁBLÁZAT"/>
+  <VAR name="gt_console_paytable2" value="NYEREMÉNYTÁBLÁZAT"/>
+  <VAR name="gt_console_paytable3" value="NYEREMÉNYTÁBLÁZAT"/>
+  <VAR name="gt_console_spin" value="PÖRGETÉS"/>
+  <VAR name="gt_console_stakeGreen" value="TÉT"/>
+  <VAR name="gt_console_stakeRed" value="TÉT"/>
+  <VAR name="gt_console_stop" value="STOP"/>
+  <VAR name="gt_console_totalWin" value="ÖSSZ. NYER."/>
+  <VAR name="gt_console_win" value="NYEREMÉNY"/>
+  <VAR name="gt_firstWarning_areYouSure" value="BIZTOS BENNE?"/>
+  <VAR name="gt_firstWarning_lock_spin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_freespinsPanel_total" value="INGYENES PÖRGETÉSEK ÖSSZ."/>
+  <VAR name="gt_freespinsSummary_congratulations" value="GRATULÁLUNK"/>
+  <VAR name="gt_freespinsSummary_duringFreeSpins" value="AZ INGYENES PÖRGETÉSEKNÉL"/>
+  <VAR name="gt_freespinsSummary_youveWon" value="NYEREMÉNYE"/>
+  <VAR name="gt_intro_allWildsLockIn" value="MINDEN DZSÓKER ZÁROLVAAZ INGYENES PÖRGETÉSEKNÉL"/>
+  <VAR name="gt_intro_bigGamePunters" value="NAGY JÁTÉKOSOK"/>
+  <VAR name="gt_intro_congratulations" value="GRATULÁLUNK"/>
+  <VAR name="gt_intro_console_autoPlays" value="AUTOMATIKUS JÁTÉK"/>
+  <VAR name="gt_intro_console_button_lockAndSpin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_intro_console_lineStake" value="SORTÉT"/>
+  <VAR name="gt_intro_console_paytable" value="NYEREMÉNYTÁBLÁZAT"/>
+  <VAR name="gt_intro_console_spin" value="PÖRGETÉS"/>
+  <VAR name="gt_intro_console_stakeGreen" value="TÉT"/>
+  <VAR name="gt_intro_console_stakeRed" value="TÉT"/>
+  <VAR name="gt_intro_console_totalWin" value="ÖSSZ. NYER."/>
+  <VAR name="gt_intro_console_win" value="NYEREMÉNY"/>
+  <VAR name="gt_intro_freeSpins" value="INGYENES PÖRGETÉS"/>
+  <VAR name="gt_intro_gambler" value="FOGADÓ"/>
+  <VAR name="gt_intro_howWildAreYou" value="MENNYIRE KELL A DZSÓKER?"/>
+  <VAR name="gt_intro_lockAndSpin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_intro_meerkatBonus_B" value="B"/>
+  <VAR name="gt_intro_meerkatBonus_N" value="N"/>
+  <VAR name="gt_intro_meerkatBonus_O" value="O"/>
+  <VAR name="gt_intro_meerkatBonus_S" value="S"/>
+  <VAR name="gt_intro_meerkatBonus_U" value="U"/>
+  <VAR name="gt_intro_newFeature" value="ÚJ FUNKCIÓ"/>
+  <VAR name="gt_intro_playYourWay" value="JÁTSSZA A MAGA MÓDJÁN!!!"/>
+  <VAR name="gt_intro_reels_wild" value="DZSÓKER"/>
+  <VAR name="gt_intro_spinWithAllWilds" value="PÖRGETÉS AZ ÖSSZES DZSÓKER ZÁROLÁSÁVAL"/>
+  <VAR name="gt_intro_stakeVaries" value="A TÉT A DZSÓKEREK SZÁMÁTÓL FÜGG"/>
+  <VAR name="gt_intro_start" value="START"/>
+  <VAR name="gt_intro_theSlotFor" value="A JÁTÉK A KÖVETKEZŐVEL:"/>
+  <VAR name="gt_intro_theyCanAppear" value="BÁRMELYIK PÖRGETÉSNÉL MEGJELENHETNEK!"/>
+  <VAR name="gt_intro_toWinBig" value="A NAGYNYEREMÉNYHEZ!"/>
+  <VAR name="gt_intro_watchOutForMeerkats" value="FIGYELJE A SZURIKÁTÁKAT!"/>
+  <VAR name="gt_intro_wild" value="DZSÓKER"/>
+  <VAR name="gt_intro_wildGambler" value="DZSÓKER TÉT"/>
+  <VAR name="gt_meerkatBonus_B" value="B"/>
+  <VAR name="gt_meerkatBonus_N" value="N"/>
+  <VAR name="gt_meerkatBonus_O" value="O"/>
+  <VAR name="gt_meerkatBonus_S" value="S"/>
+  <VAR name="gt_meerkatBonus_U" value="U"/>
+  <VAR name="gt_paytable1_lockAndSpin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_paytable1_rockLockAndSpin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_paytable1_wild_symbol1" value="DZSÓKER"/>
+  <VAR name="gt_paytable1_wild_symbol2" value="DZSÓKER"/>
+  <VAR name="gt_paytable1_wild_symbol3" value="DZSÓKER"/>
+  <VAR name="gt_paytable2_stake" value="TÉT"/>
+  <VAR name="gt_paytable2_wild_symbol1" value="DZSÓKER"/>
+  <VAR name="gt_paytable2_wild_symbol2" value="DZSÓKER"/>
+  <VAR name="gt_paytable2_wild_symbol3" value="DZSÓKER"/>
+  <VAR name="gt_paytable3_areYouSure" value="BIZTOS BENNE?"/>
+  <VAR name="gt_paytable3_lockAndSpin2" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_paytable4_eightFreeSpins" value="8 INGYENES PÖRGETÉS"/>
+  <VAR name="gt_paytable4_freeSpins" value="INGYENES PÖRGETÉS"/>
+  <VAR name="gt_paytable4_meerkatBonus_B" value="B"/>
+  <VAR name="gt_paytable4_meerkatBonus_N" value="N"/>
+  <VAR name="gt_paytable4_meerkatBonus_O" value="O"/>
+  <VAR name="gt_paytable4_meerkatBonus_S" value="S"/>
+  <VAR name="gt_paytable4_meerkatBonus_U" value="U"/>
+  <VAR name="gt_paytable4_wild_symbol1" value="DZSÓKER"/>
+  <VAR name="gt_paytable4_wild_symbol2" value="DZSÓKER"/>
+  <VAR name="gt_paytable5_pays" value="NYEREMÉNYE"/>
+  <VAR name="gt_paytable5_wild" value="DZSÓKER"/>
+  <VAR name="gt_paytable5_wild_and" value="&amp;"/>
+  <VAR name="gt_paytable5_winLines" value="NYEREMÉNYSOROK"/>
+  <VAR name="gt_paytable_button_backToReels" value="A JÁTÉKHOZ"/>
+  <VAR name="gt_paytable_button_next" value="KÖV."/>
+  <VAR name="gt_paytable_playYourWay" value="JÁTSSZA A MAGA MÓDJÁN"/>
+  <VAR name="gt_paytable_screenshot_autoPlaysBtn1" value="AUTOMATIKUS JÁTÉKOK"/>
+  <VAR name="gt_paytable_screenshot_lineStake1" value="SORTÉT"/>
+  <VAR name="gt_paytable_screenshot_lockStake1" value="TÉT"/>
+  <VAR name="gt_paytable_screenshot_paytableBtn1" value="NYEREMÉNYTÁBLÁZAT"/>
+  <VAR name="gt_paytable_screenshot_spinBtn1" value="PÖRGETÉS"/>
+  <VAR name="gt_paytable_screenshot_stake1" value="TÉT"/>
+  <VAR name="gt_paytable_screenshot_totalWin1" value="ÖSSZ. NYER."/>
+  <VAR name="gt_paytable_screenshot_win1" value="NYEREMÉNY"/>
+  <VAR name="gt_paytable_symbol_wild" value="DZSÓKER"/>
+  <VAR name="gt_paytable_wildGamblerTitle" value="DZSÓKER TÉT"/>
+  <VAR name="gt_popupButton_no" value="NEM"/>
+  <VAR name="gt_popupButton_yes" value="IGEN"/>
+  <VAR name="gt_popup_lockAndSpin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_popup_newFeature" value="ÚJ FUNKCIÓ"/>
+  <VAR name="gt_popup_playYourWay" value="JÁTSSZA A MAGA MÓDJÁN!"/>
+  <VAR name="gt_reels_wild" value="DZSÓKER"/>
+  <VAR name="gt_stakeWarning_areYouSure" value="BIZTOS BENNE?"/>
+  <VAR name="gt_stakeWarning_lockAndSpin" value="ZÁROLÁS ÉS PÖRGETÉS"/>
+  <VAR name="gt_title_anyWildsInFreeSpins" value="A DZSÓKER AZ INGYENES PÖRGETÉSEKNÉL HELYÉN MARAD"/>
+  <VAR name="gt_title_betterChancesToWin" value="ZÁROLÁS ÉS PÖRGETÉS... NAGYOBB ESÉLY A NYERÉSRE!"/>
+  <VAR name="gt_title_clickSymbols" value="KATTINTSON A KÉPEKRE A HOZZÁADÁSHOZ VAGY TÖRLÉSHEZ"/>
+  <VAR name="gt_title_clickToAddWild" value="KATTINTSON A DZSÓKER HOZZÁADÁSÁHOZ"/>
+  <VAR name="gt_title_clickToRemoveWild" value="KATTINTSON A DZSÓKER ELTÁVOLÍTÁSÁHOZ"/>
+  <VAR name="gt_title_fiveBonusMeerkats" value="5 BÓNUSZ SZURIKÁTA = 8 INGYENES PÖRGETÉS"/>
+  <VAR name="gt_title_keepCurrentWildLayout" value="DZSÓKEREK AUTOMATIKUS ZÁROLÁSA VAGY AKTUÁLIS DZSÓKEREK MEGTARTÁSA AZ OPCIÓKNÁL"/>
+  <VAR name="gt_title_playYourWay" value="JÁTSSZA A MAGA MÓDJÁN!"/>
+  <VAR name="gt_title_wildGambler" value="DZSÓKER TÉT"/>
+  <VAR name="gt_wonFreespins_congratulations" value="GRATULÁLUNK"/>
+  <VAR name="gt_wonFreespins_current_new_wilds_lock" value="MINDEN JELENLEGI DZSÓKER RÖGZÜL! MINDEN ÚJ DZSÓKER IS RÖGZÜL AZ INGYENES PÖRGETÉSEKNÉL!"/>
+  <VAR name="gt_wonFreespins_eightFreeSpins" value="8 INGYENES PÖRGETÉS"/>
+  <VAR name="gt_wonFreespins_start" value="START"/>
+  <VAR name="label_cashed" value="Beváltott nyeremény"/>
+  <VAR name="label_empty" value="---"/>
+  <VAR name="label_fromstake" value="(%1 tétből)"/>
+  <VAR name="label_linecount" value="(%1 sor)"/>
+  <VAR name="label_linewin" value="(%1 sor)"/>
+  <VAR name="label_linewin_1" value="1234567890.00"/>
+  <VAR name="label_loading" value="Előző tétek töltése..."/>
+  <VAR name="label_more" value="TÖBB"/>
+  <VAR name="label_staked" value="Megtett tét"/>
+  <VAR name="messageBox_cancel_button" value="Mégse"/>
+  <VAR name="messageBox_error_default" value="Váratlan hiba - kérjük, próbálja meg a játék betöltését újra."/>
+  <VAR name="messageBox_error_ins_funds" value="Önnek nincs elég készpénze ehhez a téthez. A folytatáshoz nyomja le a &quot;Pénztáros&quot; ikont."/>
+  <VAR name="messageBox_error_ins_funds_free" value="Önnek nincs elég pontja ehhez a téthez. Miért nem próbálja meg valódi pénzzel?"/>
+  <VAR name="messageBox_error_onlyreal" value="Ez a funkció csak a &quot;Valódi játék&quot; verzióban áll rendelkezésre."/>
+  <VAR name="messageBox_error_server_no_fund" value="Önnek nincs elég készpénze ehhez a téthez. Nyomja le a &quot;Pénztáros&quot; ikont további zsetonok vásárlásához."/>
+  <VAR name="messageBox_ok_button" value="OK"/>
+  <VAR name="option_menu_0_htptg" value="HOGYAN KELL JÁTSZANI"/>
+  <VAR name="option_menu_1_bh" value="ELŐZŐ TÉTEK"/>
+  <VAR name="option_menu_2_soff" value="HANG KI"/>
+  <VAR name="option_menu_2_son" value="HANG BE"/>
+  <VAR name="option_menu_autolock_off" value="AUTOMATIKUS ZÁROLÁS KIKAPCSOLVA"/>
+  <VAR name="option_menu_autolock_on" value="AUTOMATIKUS ZÁROLÁS BEKAPCSOLVA"/>
+  <VAR name="option_menu_bgsound_off" value="HÁTTÉRHANG KI"/>
+  <VAR name="option_menu_bgsound_on" value="HÁTTÉRHANG BE"/>
+  <VAR name="option_menu_loadwilds" value="ALAPÉRTELMEZETT DZSÓKERELRENDEZÉS BETÖLTÉSE"/>
+  <VAR name="option_menu_savewilds" value="JELENLEGI DZSÓKERELRENDEZÉS MENTÉSE ALAPÉRTÉKKÉNT"/>
+  <VAR name="tt_autoplayOff_areYouSure" value="BIZTOSAN FOLYTATNI SZERETNÉ?"/>
+  <VAR name="tt_autoplayOff_thisWillTurnOff" value="EZZEL KIKAPCSOLJA AZ &#xD;AUTOMATIKUS JÁTÉKOT!&#xD;"/>
+  <VAR name="tt_autoplay_10Spins" value="10 PÖRGETÉS"/>
+  <VAR name="tt_autoplay_20Spins" value="20 PÖRGETÉS"/>
+  <VAR name="tt_autoplay_50Spins" value="50 PÖRGETÉS"/>
+  <VAR name="tt_autoplay_5Spins" value="5 PÖRGETÉS"/>
+  <VAR name="tt_autoplay_99Spins" value="99 PÖRGETÉS"/>
+  <VAR name="tt_autoplay_cannotBePlayed" value="NEM JÁTSZHATÓ ZÁROLÁSSAL ÉS PÖRGETÉSSEL&#xD;"/>
+  <VAR name="tt_autoplay_untilBonus" value="A BÓNUSZJÁTÉKIG"/>
+  <VAR name="tt_firstWarning_disableAutoLockWilds" value="Kikapcsolja a dzsókerek &#xD;automatikus zárolását?&#xD;"/>
+  <VAR name="tt_firstWarning_is" value=":"/>
+  <VAR name="tt_firstWarning_theStakeTo" value="A TÉT:"/>
+  <VAR name="tt_firstWarning_wildLayoutInPlace" value="Ezzel érvényben marad a jelenlegi dzsókerelrendezés&#xD;"/>
+  <VAR name="tt_intro_eightFreeSpins" value="8 INGYENES &#xD;PÖRGETÉS&#xD;"/>
+  <VAR name="tt_intro_skipIntroOff" value="INTRO ÁTUGRÁSA"/>
+  <VAR name="tt_intro_skipIntroOn" value="INTRO ÁTUGRÁSA"/>
+  <VAR name="tt_intro_youHaveWon" value="AZ ÖN NYEREMÉNYE:"/>
+  <VAR name="tt_paytable1_lockAndSpin" value="Zárolás és pörgetés"/>
+  <VAR name="tt_paytable1_screenshot_fromXStake" value="25,00 tétből"/>
+  <VAR name="tt_paytable1_screenshot_line16" value="16. sor"/>
+  <VAR name="tt_paytable1_spinWilds" value="Pörgessen a                       rögzítésével a &#xD;nagyobb nyerési esélyért!&#xD;"/>
+  <VAR name="tt_paytable1_stakeFor" value="A                                         adott tétje a gomb felett jelenik meg, és a pörgetés előtt frissül.&#xD;"/>
+  <VAR name="tt_paytable1_stakeVaries" value="A tét a megjelenő                       számától függ.&#xD;"/>
+  <VAR name="tt_paytable1_wilds1" value="DZSÓKER"/>
+  <VAR name="tt_paytable1_wilds2" value="DZSÓKER"/>
+  <VAR name="tt_paytable1_wilds3" value="DZSÓKER"/>
+  <VAR name="tt_paytable1_wildsAppear" value="Amikor                      jelennek meg a tárcsákon, &#xD;lehetősége nyílik a zárolásukra a pörgetés &#xD; előtt. Ehhez kattintson a                     &#xD;                                    gombra.&#xD;"/>
+  <VAR name="tt_paytable2_chooseConfig" value="A                                        dzsókerek bármely felállása kiválasztható - bejelölheti őket, illetve törölheti bejelölésüket a tárcsán megjelenő képre való kattintással.&#xD;"/>
+  <VAR name="tt_paytable2_hoveringOver" value="A                                                                                                                                         &#xD;                         gombra kattintva megjelenik egy lakat ikonja a &#xD;                                                    résznél, és megjelenik az &#xD;                         elrendezésnél érvényes minimális nyeremény.&#xD;"/>
+  <VAR name="tt_paytable2_lockedWildChoice" value="A                                      számát Ön döntheti el!&#xD;"/>
+  <VAR name="tt_paytable2_lockedWilds1" value="Zárolt dzsókerek"/>
+  <VAR name="tt_paytable2_lockedWilds2" value="Zárolt dzsókerek&#xD;"/>
+  <VAR name="tt_paytable2_lockedWilds3" value="Zárolt dzsókerek"/>
+  <VAR name="tt_paytable2_lockedWilds4" value="Zárolt dzsókerek"/>
+  <VAR name="tt_paytable2_or" value="Vagy..."/>
+  <VAR name="tt_paytable2_playStyle" value="Mi a stilusod?&#xD;"/>
+  <VAR name="tt_paytable2_wantToSpin" value="Pörgetni szeretne egy meghatározott téttel? Nyomja le az egyéni tét nyilait a                                      számának módosításához. Keresse ki az Önnek megfelelő tétet!&#xD;"/>
+  <VAR name="tt_paytable3_autoLockIsDisabled" value="Ha ki van kapcsolva az automatikus zárolás, akkor a &#xD;lakatok pirosan jelennek meg.&#xD;"/>
+  <VAR name="tt_paytable3_autoLockIsEnabled" value="Ha be van kapcsolva az automatikus zárolás, akkor a &#xD;lakatok feketén jelennek meg.&#xD;"/>
+  <VAR name="tt_paytable3_defaultAutoLock" value="AZ AUTOMATIKUS ZÁROLÁS ALAPÉRTELMEZÉSKÉNT BE VAN KAPCSOLVA."/>
+  <VAR name="tt_paytable3_disableAutoLockWilds" value="Kikapcsolja a dzsókerek &#xD;automatikus zárolását?&#xD;"/>
+  <VAR name="tt_paytable3_enableDisableThis" value="A funkciót a &quot;Beállítások&quot; lapon kapcsolhatja be és ki."/>
+  <VAR name="tt_paytable3_is" value=":"/>
+  <VAR name="tt_paytable3_setWildPattern" value="Ha beállított egy olyan                          mintát, amelyet meg szeretne tartani az új                         képek figyelmen kívül hagyásával, akkor kikapcsolhatja a                              automatikus zárolását, ha a vonatkozó négyzetre kattint a                                                         &#xD;                                            gomb &#xD;első megnyomásánál.&#xD;"/>
+  <VAR name="tt_paytable3_theStakeTo" value="A TÉT:"/>
+  <VAR name="tt_paytable3_wild1" value="DZSÓKER"/>
+  <VAR name="tt_paytable3_wild2" value="DZSÓKER"/>
+  <VAR name="tt_paytable3_wild3" value="DZSÓKER"/>
+  <VAR name="tt_paytable3_wild4" value="DZSÓKER"/>
+  <VAR name="tt_paytable3_wildLayoutInPlace" value="Ezzel érvényben marad a jelenlegi dzsókerelrendezés&#xD;"/>
+  <VAR name="tt_paytable3_wilds1" value="DZSÓKEREK&#xD;"/>
+  <VAR name="tt_paytable3_wilds2" value="DZSÓKEREK&#xD;"/>
+  <VAR name="tt_paytable3_wildsPosition" value="Ez azt jelenti, hogy a                              jelenlegi elrendezése megmarad minden pörgetésnél. Így a pörgetés előtt kiválaszthatja a                         pozícióit, majd arra a négyzetre kattinthat, amelynél a                       képet meg szeretné tartani.&#xD;"/>
+  <VAR name="tt_paytable4_anyWilds" value="Az                                               elindítása előtt zárolt minden                       zárolva marad az&#xD;                       .               idejére is.&#xD;"/>
+  <VAR name="tt_paytable4_freeSpins1" value="Ingyenes pörgetések"/>
+  <VAR name="tt_paytable4_freeSpins2" value="Ingyenes pörgetések"/>
+  <VAR name="tt_paytable4_freeSpins3" value="Ingyenes pörgetések"/>
+  <VAR name="tt_paytable4_freeSpins4" value="Ingyenes pörgetések"/>
+  <VAR name="tt_paytable4_lineStakeInFreeSpins" value="AZ INGYENES PÖRGETÉSEKNÉL A SORTÉT AZONOS AZ AKTIVÁLÁSKOR ÉRVÉNYES SORTÉTTEL"/>
+  <VAR name="tt_paytable4_meerkatsCanAppear" value="1-5 szurikáta jelenhet meg bármelyik Pörgetésnél vagy Zárolás és pörgetésnél. &#xD;5 szurikáta&#xD;"/>
+  <VAR name="tt_paytable4_newWilds" value="Az                                               során megjelenő &#xD;                          képek automatikusan zárolva maradnak a további                                             &#xD;                          .              idejére is.&#xD;"/>
+  <VAR name="tt_paytable4_screenshot_fromXStake" value="25,00 tétből"/>
+  <VAR name="tt_paytable4_screenshot_line16" value="16. sor"/>
+  <VAR name="tt_paytable4_wilds1" value="DZSÓKER"/>
+  <VAR name="tt_paytable4_wilds2" value="DZSÓKER"/>
+  <VAR name="tt_paytable5_substitutesAsAny" value="BÁRMELY MÁS &#xD;KÉPET HELYETTESÍT&#xD;"/>
+  <VAR name="tt_paytable_allWinsPay" value="MINDEN NYEREMÉNY BALRÓL JOBBRA FIZET.  A NYEREMÉNYEK A SORTÉTTEL SZORZÓDNAK. A DZSÓKEREK ÖNMAGUKBAN NEM FIZETNEK, KIVÉVE 5 DZSÓKER ESETÉN."/>
+  <VAR name="tt_popupButton_ok" value="OK"/>
+  <VAR name="tt_popup_clickOnSymbols" value="KATTINTSON A KÉPEKRE A DZSÓKEREK HOZZÁADÁSÁHOZ &#xD;VAGY ELTÁVOLÍTÁSÁHOZ&#xD;"/>
+  <VAR name="tt_popup_spinWithWildsLocked" value="PÖRGESSEN A HELYÜKÖN RÖGZÍTETT DZSÓKEREKKEL A NAGYOBB NYERÉSI ESÉLYHEZ"/>
+  <VAR name="tt_popup_stakeVaries" value="A TÉT A MEGJELENŐ DZSÓKEREK SZÁMÁTÓL FÜGG&#xD;"/>
+  <VAR name="tt_stakeWarning_hasRisenOver" value="FELEMELKEDETT&#xD;"/>
+  <VAR name="tt_stakeWarning_theSpinStake" value="A PÖRGETÉS &#xD;TÉTJE&#xD;"/>
+  <VAR name="tt_stakeWarning_theStakeTo" value="A TÉT:&#xD;"/>
+  <VAR name="tt_wonFreespins_youHaveWon" value="AZ ÖN NYEREMÉNYE:"/>
+  <VAR name="vectorText_betHist_action" value="MŰVELET"/>
+  <VAR name="vectorText_betHist_amount" value="ÖSSZEG"/>
+  <VAR name="vectorText_betHist_close" value="BEZÁR"/>
+  <VAR name="vectorText_betHist_details" value="RÉSZLETEK"/>
+  <VAR name="vectorText_betHist_freeSpinWilds" value="Ingyenes pörgetés X dzsóker"/>
+  <VAR name="vectorText_betHist_freespinsGame" value="INGYENES PÖRGETÉSEK"/>
+  <VAR name="vectorText_betHist_history" value="ELŐZŐ TÉTEK"/>
+  <VAR name="vectorText_betHist_lockWilds" value="Zárolás és pörgetés X dzsóker"/>
+  <VAR name="vectorText_betHist_mainReels_normalSpin" value="FŐ TÁRCSÁS JÁTÉK - NORMÁL PÖRGETÉS"/>
+  <VAR name="vectorText_betHist_noWin" value="Nincs nyeremény"/>
+  <VAR name="vectorText_betHist_normalSpin" value="Normál pörgetés"/>
+  <VAR name="vectorText_betHist_numOfWins" value="NYERÉSEK SZÁMA"/>
+  <VAR name="vectorText_betHist_print" value="NYOMTAT"/>
+  <VAR name="vectorText_betHist_ref" value="REF."/>
+  <VAR name="vectorText_betHist_results" value="EREDMÉNY"/>
+  <VAR name="vectorText_betHist_selected" value="VÁLASZTÁS"/>
+  <VAR name="vectorText_betHist_stakePerLine" value="TÉT SORONKÉNT"/>
+  <VAR name="vectorText_betHist_time" value="IDŐ "/>
+  <VAR name="vectorText_betHist_totalStake" value="ÖSSZES TÉT"/>
+  <VAR name="vectorText_betHist_totalWinnings" value="ÖSSZES NYEREMÉNY"/>
+  <VAR name="vectorText_betHist_waitingForServer" value="Várakozás a szerverre..."/>
+  <VAR name="vectorText_betHist_win" value="Nyeremény"/>
+  <VAR name="vectorText_betHist_wins" value="Nyeremények"/>
+  <VAR name="vectorText_betHist_won" value="NYER."/>
+  <VAR name="wh_error_text_loading_error" value="Hiba a játék betöltésekor. Kérjük töltse be a játékot újra."/>
+  <VAR name="wh_error_text_server_error" value="Sajnáljuk, de ezt a tétet most nem tudjuk feldolgozni. Kérjük, próbálja meg később."/>
+  <VAR name="wh_error_text_server_timeout" value="A szerver nem válaszol. Kérjük, ellenőrizze internet kapcsolatát, mielőtt újra próbálkozna."/>
+</LANGUAGE>
